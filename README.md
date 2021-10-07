@@ -3,7 +3,7 @@
 I'm a fullstack software developer from Rio de Janeiro, Brazil
 
 *  🌎 Developing Web Applications for the national financial market at [Inoa Systems](https://www.inoa.com.br/).
-*  📚 Taking my undergraduate course in Computing and Information Engineering at [UFRJ](https://ufrj.br/en/)
+*  📚 Taking my undergraduate course in Computing and Information Engineering at [UFRJ](https://ufrj.br/en/).
 
 ## Stack
 <img align="left" alt="android" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
